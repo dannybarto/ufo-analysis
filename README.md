@@ -1,22 +1,22 @@
 # UFOs
 
 ## Project Overview
-This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings.\
-In order to perform their analysis, users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape. 
+We are creating a dynamic webpage and table that affords users the opportunity to enter various criteria in order to obtain specific information regarding UFO sightings.\
+Users can input the following paremeters to filter and customize the UFO sightings data: event date, city, state, country and shape. 
 
-## Resources
-- Data Source: [UFO data](https://github.com/cedoula/UFOs/blob/main/static/js/data.js)
-- Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+## Data Sources
+- [UFO Sightings Data](https://github.com/dannybarto/ufo-analysis/blob/main/static/js/data.js)
+- [Functionality](https://github.com/dannybarto/ufo-analysis/blob/main/static/js/app_1.js)
 
-## Results
+## Information About the Webpage and Search Parameters
 
-### Link to UFO Sightings webpage
-The deployed webpage is accessible at [https://cedoula.github.io/UFOs](https://cedoula.github.io/UFOs).
+### UFO Sightings webpage
+[The Truth is Out There](https://htmlpreview.github.io/?https://github.com/dannybarto/ufo-analysis/blob/main/index.html).
 
 ### Search Criteria Procedure
 
 #### Index page
-This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
+Front page of the website. The user can reset the page by clicking on the navbar at the top.
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/95640606-285aa000-0a63-11eb-9bee-08b8b7b208ce.png" class="img-responsive" alt="Responsive image"> 
 </p>
