@@ -18,13 +18,13 @@ Users can input the following paremeters to filter and customize the UFO sightin
 #### Index page
 Front page of the website. The user can reset the page by clicking on the navbar at the top.
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/95640606-285aa000-0a63-11eb-9bee-08b8b7b208ce.png" class="img-responsive" alt="Responsive image"> 
+    <img src="https://github.com/dannybarto/ufo-analysis/blob/main/static/images/Index_Screenshot.png" class="img-responsive" alt="Responsive image"> 
 </p>
 
 #### Filtering 
 The user may enter one or more of the available parameters in order to grab data. They will input the desired data, hit enter and the desired information will be returned
 <p align="center">
-    <img src="hhttps://github.com/dannybarto/ufo-analysis/blob/main/static/images/Filters_Screenshot.png" class="img-responsive" alt="Responsive image"> 
+    <img src="https://github.com/dannybarto/ufo-analysis/blob/main/static/images/Filters_Screenshot.png" class="img-responsive" alt="Responsive image"> 
 </p>
 
 
