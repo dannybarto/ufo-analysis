@@ -13,7 +13,7 @@ Users can input the following paremeters to filter and customize the UFO sightin
 ### UFO Sightings webpage
 [The Truth is Out There](https://htmlpreview.github.io/?https://github.com/dannybarto/ufo-analysis/blob/main/index.html).
 
-### Search Criteria Procedure
+### Search Criteria Procedures
 
 #### Index page
 Front page of the website. The user can reset the page by clicking on the navbar at the top.
@@ -31,3 +31,9 @@ The user may enter one or more of the available parameters in order to grab data
 <br>
 
 ## Summary of Analysis
+
+- The fields should clearly denote that the default data in the search fields is only for example
+- The date field should have the date format M/DD/YYYY instead of an example date
+- The remaining fields should consist of drop down lists to make things simpler 
+- The Navbar at the top left needs to be highlighted as a functional link
+- It's a good tool for researching UFO sightings but needs to become more user friendly per examples above
