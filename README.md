@@ -11,7 +11,7 @@ Users can input the following paremeters to filter and customize the UFO sightin
 ## Information About the Webpage and Search Parameters
 
 ### UFO Sightings webpage
-<p>The Truth is Out There<a href="https://dannybarto.github.io/" target="_blank">UFOSightings</a>.</p>
+<a href="https://dannybarto.github.io/" target="_blank">UFO Sightings Page</a>
 
 ### Search Criteria Procedures
 
